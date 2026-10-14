@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: asgbuggy
-        image: 429128461530.dkr.ecr.us-east-1.amazonaws.com/asg
+        image: 342560106932.dkr.ecr.us-east-1.amazonaws.com/asg
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
